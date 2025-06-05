@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>bankapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>15.0-SNAPSHOT</version>
 	<name>bankapp</name>
 	<description>Banking Web Application</description>
 	<url/>
